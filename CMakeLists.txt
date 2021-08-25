@@ -35,16 +35,7 @@ install(FILES
 
 install(FILES
         scripts/images/autoware_logo_1.png
-        scripts/images/autoware_logo_2.png
         scripts/images/autoware_logo_2_white.png
-        scripts/images/axe.png
-        scripts/images/database.png
-        scripts/images/dec.png
-        scripts/images/inc.png
-        scripts/images/mobile.png
-        scripts/images/nagoya_university.png
-        scripts/images/tablet.png
-        scripts/images/vehicle.png
         DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}/images
         )
 
